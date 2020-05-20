@@ -1,7 +1,6 @@
 {
   "short_name": "Portfolio app",
   "name": "Portfolio app made with react as part of 'weekend projects' initiative",
-  "homepage": "homepage": "http://thusharsabu.github.io/Hari",
   "icons": [
     {
       "src": "favicon.ico",
@@ -12,12 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "scripts": {
-		"start": "react-scripts start",
-		"build": "react-scripts build",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
-		"test": "react-scripts test",
-		"eject": "react-scripts eject"}
+  "background_color": "#ffffff"
 }
